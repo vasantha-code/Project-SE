@@ -1,0 +1,3 @@
+step:1 welcome this is a text document, i created new text document and written something and ill Save it 
+step2: i wanted this file  to get changes in git repo 
+thank you 
