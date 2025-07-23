@@ -1,0 +1,2 @@
+This is my Cloned project 
+Added a new text file 
